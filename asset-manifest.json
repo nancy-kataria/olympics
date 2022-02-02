@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/olympics/static/css/main.5655171a.css",
-    "main.js": "/olympics/static/js/main.b8ec3927.js",
+    "main.css": "/olympics/static/css/main.af22f02e.css",
+    "main.js": "/olympics/static/js/main.b9b2be70.js",
     "static/js/787.c4171101.chunk.js": "/olympics/static/js/787.c4171101.chunk.js",
     "index.html": "/olympics/index.html",
-    "main.5655171a.css.map": "/olympics/static/css/main.5655171a.css.map",
-    "main.b8ec3927.js.map": "/olympics/static/js/main.b8ec3927.js.map",
+    "main.af22f02e.css.map": "/olympics/static/css/main.af22f02e.css.map",
+    "main.b9b2be70.js.map": "/olympics/static/js/main.b9b2be70.js.map",
     "787.c4171101.chunk.js.map": "/olympics/static/js/787.c4171101.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5655171a.css",
-    "static/js/main.b8ec3927.js"
+    "static/css/main.af22f02e.css",
+    "static/js/main.b9b2be70.js"
   ]
 }
