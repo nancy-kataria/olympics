@@ -53,7 +53,7 @@ input{
 }
 
 table{
-  width: 30vw;
+  width: 35vw;
 }
 
 table, th, td{
@@ -74,4 +74,8 @@ tr:hover{
   display: flex;
   justify-content: center;
   margin-top: 2rem;
+}
+
+.chart{
+  width: 40%;
 }

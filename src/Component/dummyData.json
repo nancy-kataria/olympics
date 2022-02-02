@@ -1,26 +1,41 @@
 [
     {
         "Id": 1,
+        "Year": 1992,
+        "Medals": 0
+    },
+    {
+        "Id": 2,
+        "Year": 1996,
+        "Medals": 1
+    },
+    {
+        "Id": 3,
+        "Year": 2000,
+        "Medals": 1
+    },
+    {
+        "Id": 4,
         "Year": 2004,
         "Medals": 1
     },
     {
-        "Id": 2,
+        "Id": 5,
         "Year": 2008,
         "Medals": 3
     },
     {
-        "Id": 3,
+        "Id": 6,
         "Year": 2012,
         "Medals": 6
     },
     {
-        "Id": 4,
+        "Id": 7,
         "Year": 2016,
         "Medals": 2
     },
     {
-        "Id": 5,
+        "Id": 8,
         "Year": 2020,
         "Medals": 7
     }

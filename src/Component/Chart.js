@@ -21,8 +21,8 @@ const OlympicData = tableData.map((data)=>(
 function Chart() {
   return <div className='content'>
     <LineChart
-      width={500}
-      height={300}
+      width={600}
+      height={400}
       data={OlympicData}
       margin={{
         top: 5,
