@@ -2,6 +2,13 @@
 
 ### <a href="https://nancy-kataria.github.io/olympics/">Visit Olympic Medals Tracker</a> 🚀
 
+## Introduction
+A record of olympic medals in a few years.<br />
+Features:
+- Display Table View of records
+- Search Medals with respect to year
+- Chart View of Records
+
 ## Getting Started
 
 ### Installation
